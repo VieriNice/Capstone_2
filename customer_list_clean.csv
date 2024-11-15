@@ -299,7 +299,7 @@ Cust_id,Date,Time,Name,Email,Phone,Sms-opt-out
 298,2023-05-04,17:00:55,Odo,odo@ds9.starfleet,247-555-2303,N
 299,2023-06-17,20:25:10,Jadzia Dax,dax@ds9.starfleet,247-555-2304,N
 300,2023-07-30,08:50:25,Julian Bashir,bashir@ds9.starfleet,247-555-2305,Y
-301,2023-09-12,12:15:40,Miles OBrien,obrien@ds9.starfleet,Not Availble,
+301,2023-09-12,12:15:40,Miles OBrien,obrien@ds9.starfleet,Not Available,
 302,2023-02-14,08:15:25,Buffy Summers,buffy@sunnydale.high,805-555-1101,N
 303,2023-04-28,12:40:50,Willow R.,willow@sunnydale.high,805-555-1102,N
 304,2023-07-05,17:05:15,Xander Harris,xander@sunnydale.high,805-555-1103,N
